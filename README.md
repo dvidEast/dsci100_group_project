@@ -1,5 +1,5 @@
-# dsci100_group_project
-Group Project for DSCI 100 
+# dsci100_group_project ⛅
+Group Project for Data Science 100 @ UBC
 - Using knn classification techniques, predict weather patterns using several quantitative variables.
 - Weather categories: clear, rain, snow, cloudy, haze, fog, and drizzle
 
